@@ -7,6 +7,25 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.small.button.learn:hover {
+  background-color: white;
+  color: #2e3842;
+}
+
+.project.button.primary.small {
+  background-color: #85754d !important;
+  color: white !important;
+}
+
+.project.button.primary.small:hover {
+  background-color: #85754d !important;
+  color: #1d242a !important;
+}
+
+.small.button.learn {
+  margin-bottom: 2vh;
+}
+
 .education {
   display: flex;
   flex-direction: row;
